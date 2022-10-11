@@ -1,2 +1,2 @@
 # Data-Science-CS301
-Assignment from Introduction to Data Science
+Assignments from Introduction to Data Science
